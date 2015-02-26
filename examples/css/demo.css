@@ -6,6 +6,14 @@ body {
     
 }
 
+code{
+	color:#f00;
+}
+
+pre{
+	color:#0f0;
+}
+
 .large {
   font-size: 72px;
   letter-spacing: -3px;
